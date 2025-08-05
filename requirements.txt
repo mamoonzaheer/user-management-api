@@ -1,0 +1,9 @@
+# Node.js projects use package.json for dependencies.
+
+express
+typeorm
+mysql2
+typescript
+ts-node
+@types/node
+@types/express
