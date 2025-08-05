@@ -19,7 +19,7 @@ This project is a simple user management backend built with TypeScript, Express,
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/mamoonzaheer/your-repo-name.git
    cd your-repo-name
    ```
 
